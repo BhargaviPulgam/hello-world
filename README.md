@@ -1,2 +1,2 @@
 # hello-world
-basic hello world code
+basic hello world program
